@@ -63,6 +63,16 @@ namespace ToursApp.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap picture {
+            get {
+                object obj = ResourceManager.GetObject("picture", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap png_transparent_green_grass_logo_travel_world_privacy_policy_vlog_confidentiality_learning {
             get {
                 object obj = ResourceManager.GetObject("png_transparent_green_grass_logo_travel_world_privacy_policy_vlog_confidentiality" +

@@ -25,3 +25,5 @@ C:\Users\ShamPlua\source\repos\ToursApp\ToursApp\bin\Debug\EntityFramework.SqlSe
 C:\Users\ShamPlua\source\repos\ToursApp\ToursApp\bin\Debug\ru\EntityFramework.resources.dll
 C:\Users\ShamPlua\source\repos\ToursApp\ToursApp\obj\Debug\ToursApp_Content.g.cs
 C:\Users\ShamPlua\source\repos\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CopyComplete
+C:\Users\ShamPlua\source\repos\ToursApp\ToursApp\obj\Debug\ToursPage.g.cs
+C:\Users\ShamPlua\source\repos\ToursApp\ToursApp\obj\Debug\ToursPage.baml
